@@ -1,0 +1,98 @@
+INDOOR AIR QUALITY HACKS FOR SOUTH ASIAN HOMES
+
+=== FREE HACKS (No Cost) ===
+
+1. STRATEGIC WINDOW MANAGEMENT
+- Keep all windows CLOSED during peak smog hours: 6-10 AM and 6-10 PM
+- Open windows briefly (5-10 min) only between 11 AM - 3 PM when sun disperses smog
+- Use wet cloth strips around door gaps during severe smog days (AQI > 300)
+- Check for gaps under doors and seal with rolled towels
+
+2. WET MOPPING OVER DRY SWEEPING
+- Never dry sweep floors during smog season — it resuspends settled particles
+- Always wet mop floors daily with a damp mop
+- Use damp cloth for dusting surfaces — dry dusting sends PM back into air
+- Change mop water frequently; dirty water recontaminates floors
+
+3. VENTILATION DURING COOKING
+- Always turn on exhaust fan before lighting stove, not after
+- Keep kitchen window open during and 15 minutes after cooking
+- Avoid high-heat cooking (deep frying, tandoor) on severe smog days
+- Use lids on pots to reduce steam and particulate dispersion
+
+4. SHOE-FREE HOME RULE
+- Remove shoes at entrance — outdoor PM2.5, lead, pesticides enter on shoe soles
+- Place a doormat outside AND inside entrance
+- Wipe pets' paws before they enter from outdoors
+
+5. INCENSE AND CANDLES — MINIMIZE
+- Incense sticks (agarbatti) emit PM2.5 at 45x the WHO limit per hour
+- Scented candles release benzene and toluene — known carcinogens
+- Replace with diffusers or natural floral arrangements
+
+6. HUMIDITY CONTROL (Free)
+- PM2.5 concentration increases in dry air
+- Hang wet towels in rooms to increase humidity to 40-60%
+- Place bowls of water near heaters in winter
+- Do NOT over-humidify (>70%) — promotes mold growth
+
+=== LOW COST HACKS (Under ₹500) ===
+
+7. DIY BOX FAN AIR PURIFIER (₹0-300 for filter)
+- Attach a MERV-13 or HEPA furnace filter to back of a box fan with tape
+- Tape filter securely to intake side of fan (the flat back)
+- Filter cost: ₹200-500, replaceable monthly
+- Effectiveness: Reduces PM2.5 by 60-80% in a single room
+- Run for 20-30 minutes to clean a 200 sq ft room
+
+8. CHARCOAL BAG AIR FRESHENER/PURIFIER
+- Activated charcoal absorbs VOCs, formaldehyde, and odors
+- Place 200g activated charcoal sachets (₹150-200 on Amazon) in each room
+- Replace every 2-3 months (recharge by placing in sun for 2 hours monthly)
+
+9. SALT LAMP (₹300-800)
+- Himalayan salt lamps emit negative ions that attract PM2.5
+- Best in bedroom for overnight air purification
+- Effectiveness lower than HEPA but measurable improvement in small spaces
+
+10. BEESWAX CANDLES (₹200-400)
+- Unlike paraffin, beeswax candles emit negative ions and minimal pollutants
+- Actually improve indoor air slightly when burned in ventilated room
+
+=== MEDIUM COST (₹500-2000) ===
+
+11. PORTABLE HEPA AIR PURIFIER
+- Look for CADR (Clean Air Delivery Rate) matching room size: CADR 100 for ~200 sq ft
+- Brands: Dyson (expensive), Xiaomi Mi Air Purifier 3 (₹8,000 — worth it), 
+  Kent Aura (₹4,500), Honeywell Air Touch (₹5,000-8,000)
+- Always check for true HEPA H13 certification
+- Run continuously on auto mode; replace filters every 6-12 months
+
+12. AIR QUALITY MONITOR
+- Real-time PM2.5 reading helps you know when to close windows or run purifier
+- Xiaomi Mi Air Monitor (₹2,500) — most affordable with app connectivity
+- Readings above 35 µg/m³ indoors = run purifier immediately
+
+=== AIR-PURIFYING PLANTS FOR INDIAN HOMES ===
+
+TOP PLANTS BY PM2.5 ABSORPTION (CSIR research):
+1. Spider Plant (Chlorophytum comosum / Pankhuri) — absorbs formaldehyde, CO
+2. Snake Plant (Sansevieria / Maa ki Zubaan) — releases O2 at night, absorbs benzene
+3. Peace Lily (Spathiphyllum) — absorbs mold spores, benzene, trichloroethylene  
+4. Aloe Vera — absorbs benzene and formaldehyde from cleaning products
+5. Bamboo Palm — excellent for removing formaldehyde
+6. Indian Basil (Tulsi) — traditional air purifier, also mosquito repellent
+7. Golden Pothos (Money Plant) — extremely hardy, absorbs xylene and benzene
+8. Rubber Plant (Ficus elastica) — absorbs airborne chemicals efficiently
+9. Areca Palm — natural humidifier + air purifier combination
+10. Dracaena — removes trichloroethylene from air
+
+PLACEMENT GUIDE:
+- Bedroom: Snake plant (releases O2 at night), Aloe vera
+- Kitchen: Aloe vera, Golden Pothos (absorbs cooking fumes)
+- Living room: Areca Palm, Peace Lily, Spider Plant
+- Study/Office: Snake Plant, Dracaena
+- Near entrance: Bamboo Palm (large, traps outdoor particles)
+
+For maximum effect: 2 medium plants (6-inch pot) per 100 sq ft
+

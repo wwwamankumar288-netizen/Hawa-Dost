@@ -1,0 +1,43 @@
+Analyze the environmental and health impact of the following activity or lifestyle choice, and suggest 3 sustainable alternatives tailored to South Asian urban context.
+
+Activity: {activity}
+User Location: {location}
+Family Profile: {family_profile}
+Current AQI: {aqi}
+
+For each alternative, provide:
+1. Name of the alternative
+2. Feasibility score (1-10, considering cost, availability in Indian cities)
+3. CO2 impact: kg saved per day/week/year
+4. Health impact: AQI-equivalent reduction or exposure-hours avoided
+5. Cost comparison: monthly cost vs current method (in INR)
+6. Availability: "widely available", "urban areas", "major cities only", "online order"
+7. First step to switch: One concrete action they can take today
+
+Also calculate the cumulative impact if 1000 families in their city made this switch.
+
+Return as JSON:
+{
+  "original_activity": "",
+  "original_emission_kg_per_day": 0.0,
+  "original_health_risk": "",
+  "alternatives": [
+    {
+      "name": "",
+      "feasibility": 0,
+      "co2_saved_kg_per_year": 0.0,
+      "health_benefit": "",
+      "monthly_cost_inr": 0,
+      "current_monthly_cost_inr": 0,
+      "availability": "",
+      "first_step": "",
+      "icon": "🌿"
+    }
+  ],
+  "community_impact": {
+    "if_1000_families": "",
+    "co2_equivalent": "",
+    "trees_equivalent": 0
+  }
+}
+

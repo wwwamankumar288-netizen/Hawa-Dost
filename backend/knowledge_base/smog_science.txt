@@ -1,0 +1,76 @@
+SMOG SCIENCE — HOW WINTER AIR POLLUTION WORKS
+
+=== WHAT IS SMOG? ===
+
+Smog (smoke + fog) is a type of air pollution formed when sunlight reacts with pollutants from vehicles, factories, burning, and dust.
+
+TWO TYPES:
+1. Photochemical smog: Ozone (O3) + NO2 formed by sunlight + vehicle emissions. Worse in hot weather.
+2. Industrial/Sulfurous smog: SO2 + particulates from coal burning. Classic London-type. Delhi winter smog is a MIX of both.
+
+DELHI WINTER SMOG RECIPE:
+- Low temperatures (8-15°C) + High humidity (70-90%)
+- Temperature inversion: Warm air layer traps cold, polluted air near ground
+- Multiple emission sources: Vehicles, power plants, construction, Diwali firecrackers, stubble burning
+- Weak winds prevent dispersion
+- Result: PM2.5 can reach 500-900 µg/m³ — 100x WHO limit
+
+TEMPERATURE INVERSION EXPLAINED:
+Normally: Warm air near ground rises, dispersing pollutants upward
+Inversion: Cold air at ground, warmer air above = pollutants CANNOT rise
+Like putting a lid on a pot — smog gets trapped at ground level
+Inversions worst: Early morning (5-9 AM), on calm, clear nights
+
+SEASONAL PATTERN (Delhi/Indo-Gangetic Plain):
+- October-November: Stubble burning peak + post-monsoon dryness
+- December-January: Peak smog season, lowest wind speeds
+- February: Gradual improvement as temperatures rise
+- March-September: Better air quality (monsoon washes PM)
+
+PARTICULATE MATTER SIZES:
+- PM10 (coarse): Diameter < 10 micrometres. Settles in nose/throat. Causes irritation.
+- PM2.5 (fine): Diameter < 2.5 µm. Penetrates deep into lungs. MOST DANGEROUS.
+- PM1 (ultrafine): < 1 µm. Can enter bloodstream through lung walls.
+- Black carbon (BC): Tiny combustion particles. Strong global warming agent + carcinogen.
+
+HOW PM2.5 HARMS THE BODY:
+Path: Nose → Bronchi → Alveoli (air sacs) → Bloodstream
+Effects:
+- Inflammation of airways within hours of exposure
+- Oxidative stress damages cell DNA
+- Cardiovascular: Increases blood pressure, clotting risk
+- Neural: PM2.5 linked to dementia and cognitive decline
+- Reproductive: Reduces male sperm quality
+- In children: Stunts lung development permanently
+
+HOW SEASONS AFFECT POLLUTION IN INDIA:
+Pre-monsoon (Mar-May): Rising temperatures lift inversions. Better air. Dust storms from Rajasthan add PM10.
+Monsoon (Jun-Sep): Rain washes particles. Best air quality of year.
+Post-monsoon (Oct-Nov): Sudden temperature drop + wind shift + stubble burning = worst pollution onset.
+Winter (Dec-Feb): Cold, calm, humid = worst smog conditions. Inversions daily.
+
+CONTRIBUTION SOURCES TO DELHI PM2.5 (IIT Delhi SAFAR data):
+- Stubble burning (Nov): 30-40% of PM2.5
+- Vehicles: 28%
+- Road and construction dust: 24%
+- Industries: 11%
+- Domestic burning (cooking, heating): 6%
+- Other: 1%
+
+WHY MORNING IS WORST:
+- Overnight inversion is strongest at dawn (5-7 AM)
+- Exhaust from early traffic + no wind = concentrated pollution
+- School run time = children's highest exposure window
+- Recommendation: Keep children indoors until 10 AM on high-AQI days
+
+WHY FIREWORKS ARE SO HARMFUL:
+- Diwali firecrackers spike PM2.5 to 1000-2000 µg/m³ in hours
+- Contain heavy metals: barium, lead, antimony, copper — toxic even in tiny amounts
+- PM2.5 from fireworks stays airborne for 24-48 hours in calm conditions
+- One night of fireworks can take 7-10 days for air to recover
+
+GREENHOUSE EFFECT OF BLACK CARBON:
+- Black carbon from biomass burning warms atmosphere 1500x more than CO2 per gram
+- Settles on Himalayan glaciers, accelerating glacier melt (water security threat)
+- 2-week atmospheric lifetime vs CO2's 100+ years — cutting BC has IMMEDIATE climate benefit
+

@@ -1,0 +1,40 @@
+Generate a personalized low-emission daily routine for the following family profile:
+
+Family Profile:
+- Location: {location}
+- Current AQI: {aqi} ({aqi_category})
+- Family Size: {family_size} members
+- Children (under 12): {children}
+- Elderly (over 65): {elderly}
+- Pregnant members: {pregnant}
+- Home Type: {home_type}
+- Cooking Fuel: {cooking_fuel}
+- Primary Commute: {commute_method}
+- Work/School Distance: {distance} km
+- Budget for changes: {budget}
+
+Generate a complete daily schedule from 5:00 AM to 10:00 PM. For each time slot, provide:
+1. The recommended activity (adjusted for current AQI)
+2. An emission_level: "low", "medium", "high"
+3. A health_risk: "safe", "caution", "avoid"
+4. A specific alternative if the original activity is risky or high-emission
+5. A one-sentence explanation of WHY this matters for their lungs/health
+
+Return as a valid JSON array with this exact schema:
+{
+  "routine": [
+    {
+      "time": "06:00",
+      "activity": "Morning walk outdoors",
+      "emission_level": "low",
+      "health_risk": "avoid",
+      "alternative": "15-min indoor yoga or stretching near a window (keep it closed)",
+      "impact_note": "AQI {aqi} means outdoor air has {cigarette_equivalent} cigarettes worth of particles per hour",
+      "icon": "🏃"
+    }
+  ],
+  "daily_summary": "One paragraph summary of key changes and their combined health/emission impact",
+  "co2_saved_kg": 0.0,
+  "aqi_exposure_avoided_hours": 0
+}
+

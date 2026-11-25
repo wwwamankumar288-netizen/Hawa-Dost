@@ -1,0 +1,49 @@
+WHO AIR QUALITY GUIDELINES — KEY FACTS FOR HAWA DOST
+
+ANNUAL MEAN LIMITS (WHO 2021):
+- PM2.5: 5 µg/m³ (annual mean) | 15 µg/m³ (24-hour mean)
+- PM10: 15 µg/m³ (annual mean) | 45 µg/m³ (24-hour mean)
+- NO2: 10 µg/m³ (annual mean) | 25 µg/m³ (24-hour mean)
+- O3: 60 µg/m³ (peak season) | 100 µg/m³ (8-hour mean)
+- CO: 4 mg/m³ (24-hour mean)
+
+INDIA CONTEXT (CPCB 2023 data):
+- Delhi average PM2.5: 102 µg/m³ (20x WHO limit)
+- Winter peak (Nov-Jan) often 300-500 µg/m³
+- Punjab stubble burning contributes 30-40% of Delhi's winter smog
+- Vehicle emissions: 40% of urban PM2.5 in metro cities
+- Industries: 20% of urban PM2.5
+- Construction dust: 10% of urban PM2.5
+
+CIGARETTE EQUIVALENT (Berkeley Earth formula):
+- Every 22 µg/m³ of PM2.5 = smoking approximately 1 cigarette per day
+- Delhi winter average = equivalent to smoking 4-5 cigarettes/day
+- Peak smog days (PM2.5 > 400 µg/m³) = 18+ cigarettes/day
+
+HEALTH EFFECTS BY EXPOSURE DURATION:
+Short-term (hours): Eye irritation, throat irritation, coughing, reduced lung function
+Medium-term (days): Increased asthma attacks, bronchitis, cardiovascular stress
+Long-term (years): Chronic obstructive pulmonary disease (COPD), lung cancer, heart disease, reduced life expectancy (average 5+ years in Delhi)
+
+VULNERABLE GROUPS (highest risk):
+1. Children under 12 — developing lungs, faster breathing rate = more exposure
+2. Elderly (65+) — reduced lung function, pre-existing conditions
+3. Pregnant women — exposure linked to low birth weight, preterm birth
+4. People with asthma/COPD/heart disease
+5. Outdoor workers (construction, traffic police, vendors)
+
+AQI TO PM2.5 CONVERSION (CPCB India):
+AQI 0-50 = PM2.5 0-30 µg/m³ — Good
+AQI 51-100 = PM2.5 31-60 µg/m³ — Satisfactory
+AQI 101-200 = PM2.5 61-90 µg/m³ — Moderate
+AQI 201-300 = PM2.5 91-120 µg/m³ — Poor
+AQI 301-400 = PM2.5 121-250 µg/m³ — Very Poor
+AQI 401-500 = PM2.5 >250 µg/m³ — Severe
+
+MASK EFFECTIVENESS:
+- N95/N99 respirators: Block 95-99% of PM2.5 when properly fitted
+- Surgical masks: Block only 20-50% of PM2.5
+- Cloth masks: Minimal protection against PM2.5
+- Always ensure no gaps around cheeks, chin, nose bridge
+- Masks must be replaced every 8 hours or when damp
+
